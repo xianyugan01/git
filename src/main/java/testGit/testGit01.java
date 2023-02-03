@@ -9,5 +9,6 @@ public class testGit01 {
         System.out.println("hello-hot-fix1");
         
         System.out.println("master");
+        System.out.println("master02");
     }
 }
