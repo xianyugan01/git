@@ -10,5 +10,7 @@ public class testGit01 {
         
         System.out.println("master");
         System.out.println("master02");
+        System.out.println("pull test");
+        
     }
 }
